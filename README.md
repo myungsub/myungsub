@@ -1,11 +1,13 @@
 ### 🤖 **Myungsub Choi / @myungsub**
 
-  - **SAIT (Samsung Advanced Institute of Technology)** (2022.05 ~) : Camera 3A, ISP
+  - **Samsung AI Center** (2024.12 ~ Present) : LLM/RAG
+  - **SAIT (Samsung Advanced Institute of Technology)** (2022.05 ~ 2024.11) : Camera 3A, ISP, IQA, LLM/RAG
   - **Google Research** (2021.04 ~ 2022.04) : [Referring Object Manipulation (ECCV'22)](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_36)
   - **SNU CVLab (Ph.D.)** (2013 ~ 2021) : Video frame interpolation, Super-resolution
 
 ### 📡 Links
   - 📖 Facebook : https://fb.com/c.myungsub
+  - 💼 LinkedIn : https://www.linkedin.com/in/myungsub-choi/
   - 🕸 Website : https://myungsub.github.io
 
 <!---
