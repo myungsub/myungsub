@@ -1,5 +1,6 @@
 ### 🤖 **Myungsub Choi / @myungsub**
 
+  - **Tynapse** (2025.10 ~ Present) : Head of AI — Building the Decision Trust Infrastructure for AI Agents
   - **Samsung AI Center** (2024.12 ~ 2025.09) : LLM/RAG
   - **SAIT (Samsung Advanced Institute of Technology)** (2022.05 ~ 2024.11) : Camera 3A, ISP, IQA, LLM/RAG
   - **Google Research** (2021.04 ~ 2022.04) : [Referring Object Manipulation (ECCV'22)](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_36)
