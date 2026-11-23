@@ -1,6 +1,8 @@
 ### 🤖 **Myungsub Choi / @myungsub**
 
-  - **Tynapse** (2025.10 ~ Present) : Head of AI — Building the Decision Trust Infrastructure for AI Agents
+[Résumé (PDF)](output/pdf/resume.pdf) · [LaTeX source](resume.tex)
+
+  - **Tynapse** (2025.10 ~ Present) — Co-founder and Head of AI. I lead research on runtime guardrails, LLM-as-a-Judge models, and evaluation for AI agents in regulated industries.
   - **Samsung AI Center** (2024.12 ~ 2025.09) : LLM/RAG
   - **SAIT (Samsung Advanced Institute of Technology)** (2022.05 ~ 2024.11) : Camera 3A, ISP, IQA, LLM/RAG
   - **Google Research** (2021.04 ~ 2022.04) : [Referring Object Manipulation (ECCV'22)](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_36)
@@ -10,6 +12,15 @@
   - 📖 Facebook : https://fb.com/c.myungsub
   - 💼 LinkedIn : https://www.linkedin.com/in/myungsub-choi/
   - 🕸 Website : https://myungsub.github.io
+
+### Build the résumé
+
+From the repository root, run the following with Tectonic installed.
+
+```sh
+mkdir -p output/pdf
+tectonic --outdir output/pdf resume.tex
+```
 
 <!---
 ![](https://github-readme-stats.vercel.app/api?username=myungsub)
