@@ -1,6 +1,6 @@
 ### 🤖 **Myungsub Choi / @myungsub**
 
-[Résumé (PDF)](output/pdf/resume.pdf) · [LaTeX source](resume.tex)
+[Résumé (PDF)](output/pdf/resume.pdf)
 
   - **Tynapse** (2025.10 ~ Present) — Co-founder and Head of AI. I lead research on runtime guardrails, LLM-as-a-Judge models, and evaluation for AI agents in regulated industries.
   - **Samsung AI Center** (2024.12 ~ 2025.09) : LLM/RAG
@@ -12,15 +12,6 @@
   - 📖 Facebook : https://fb.com/c.myungsub
   - 💼 LinkedIn : https://www.linkedin.com/in/myungsub-choi/
   - 🕸 Website : https://myungsub.github.io
-
-### Build the résumé
-
-From the repository root, run the following with Tectonic installed.
-
-```sh
-mkdir -p output/pdf
-tectonic --outdir output/pdf resume.tex
-```
 
 <!---
 ![](https://github-readme-stats.vercel.app/api?username=myungsub)
